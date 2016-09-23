@@ -16,13 +16,13 @@ hold(axes1,'on');
 plot(X1,Y1);
 
 % Create xlabel
-xlabel('время, с');
+xlabel('time, s');
 
 % Create title
-title('Колебания');
+title('Oscillations');
 
 % Create ylabel
-ylabel('Угол, ^o');
+ylabel('Angle, ^o');
 
 box(axes1,'on');
 % Set the remaining axes properties

@@ -1,3 +1,3 @@
-a = 1+2
-b = 1:10 % вектор от 1 до 10 с шагом 1
-c = a*b; % точка с запятой, чтобы скрыть результат
+a = 1 + 2
+b = 1:10 % vector from 1 to 10 with step of 1
+c = a*b; % semicolon for hide the answer

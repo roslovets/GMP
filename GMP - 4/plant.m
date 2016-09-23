@@ -1,6 +1,6 @@
-% Загрузка параметров
+%% Load parameters
 params;
-% Вспомогательные переменные
+%% Helping variables
 alpha = n * Kt / Rm;
 beta = n * Kt * Kb / Rm + fm;
 E = [(2*m+M)*R^2 + 2*Jw + 2*n^2*Jm   M*L*R - 2*n^2*Jm;
@@ -14,7 +14,7 @@ H = [alpha   alpha;
 I = m * W^2 / 2 + Jphi + (Jw + n^2 * Jm) * W^2 / (2 * R^2);
 J = W^2 / (2 * R^2) * (beta + fw);
 K = W / (2 * R) * alpha;
-% Матрицы модели в пространстве состояний
+%% State space matrices
 A1 = [0 0   1 0;
 	  0 0   0 1;
      -E\G  -E\F]; 
@@ -29,7 +29,7 @@ B2 = [0    0
 	 -K/I  K/I];
 C2 = eye(2);
 D2 = zeros(2);
-% Создаём модели в пространстве состояний
+%% State space models
 s1 = ss(A1, B1, C1, D1);
 s1.StateName = {'theta', 'psi', 'theta_dot', 'psi_dot'};
 s1.InputName = {'Vl', 'Vr'};
