@@ -1,5 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+commitencoding = Windows-1251
+
 
 # Custom for Visual Studio
 *.cs     diff=csharp
