@@ -1,0 +1,6 @@
+work
+*/*.autosave
+*/*.asv
+docs/~$*.docx
+*.zip
+*/*.tmp

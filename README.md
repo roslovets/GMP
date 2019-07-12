@@ -1,4 +1,7 @@
-#Добро пожаловать в репозиторий курса Gyroboy MATLAB Project!
->Сюда я буду выклыдвать файлы с занятий по мере их поступления.<br>
->ВАЖНО! Прежде, чем качать их, попробуйте-ка сами сделать что-нибудь ;) а потом сравните<br>
->Страница проекта http://gyroboy-project.ru
+# GYROBOY MATLAB PROJECT
+
+## Video course
+
+![GMP course](http://img.youtube.com/vi/wE-5eSu2ap0/mqdefault.jpg)
+
+[Go to course](https://www.youtube.com/watch?v=wE-5eSu2ap0&list=PLmu_y3-DV2_na6mfOmMntrKzIn4DrnUlC)
