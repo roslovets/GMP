@@ -1,0 +1,1 @@
+open_script('COURSE/2_Modeling/NXTway-GS Model-Based Design.pdf')
