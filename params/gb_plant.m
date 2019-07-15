@@ -1,5 +1,5 @@
 %% Load parameters
-params;
+gb_params;
 %% Helping variables
 alpha = n * Kt / Rm;
 beta = n * Kt * Kb / Rm + fm;

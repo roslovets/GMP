@@ -1,4 +1,4 @@
-% 7-state controller
+%% 7-state controller
 QQ = [1     0     0     0     0     0     0;
       0     1     0     0     0     0     0;
       0     0     1     0     0     0     0;
