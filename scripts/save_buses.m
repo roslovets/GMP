@@ -1,1 +1,1 @@
-save bus_data Ctl Data
+save bus_data Ctrl Data
