@@ -4,7 +4,7 @@
 
 - Build self-balancing Lego robot Gyroboy from scratch
 - Practice in control system design
-- Learn how the Model-based design works
+- Learn how the Model-Based Design works
 - Control Gyroboy from App Designer app or from Android
 - Have fun!
 
