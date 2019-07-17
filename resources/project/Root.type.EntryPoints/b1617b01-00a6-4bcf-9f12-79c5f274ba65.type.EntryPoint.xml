@@ -1,2 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Info Type="StartUp" Visible="1" Icon="" File="models/gyroboy.slx" Name="1. Gyroboy Model" />
+<Info Type="StartUp" Visible="1" Icon="" File="models/gyroboy.slx" Name="1. Gyroboy Model">
+    <Extension Value="d46c5103-51db-424c-b21f-6320ac7a9440" Name="StartUpPrev" />
+</Info>
