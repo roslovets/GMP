@@ -2,9 +2,11 @@
 
 ![GMP Cover](https://github.com/roslovets/GMP/raw/master/img/gmp_cover.png)
 
-- Build self-balancing Lego robot from scratch
-- Learn on practice how Model-based design works
-- Control 
+- Build self-balancing Lego robot Gyroboy from scratch
+- Practice in control system design
+- Learn how the Model-based design works
+- Control Gyroboy from App Designer app or from Android
+- Have fun!
 
 ## Video course
 
