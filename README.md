@@ -8,6 +8,8 @@
 - Control Gyroboy from App Designer app or from Android
 - Have fun!
 
+[Description (Russian)](https://hub.exponenta.ru/post/gyroboy-matlab-project-delaem-robota-balansera911)
+
 ## How to download
 
 Execute in MATLAB
